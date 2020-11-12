@@ -1,0 +1,9 @@
+C:\Matheus\IMDb\IMDb.Core\bin\BPC\Debug\netcoreapp3.1\IMDb.Core.deps.json
+C:\Matheus\IMDb\IMDb.Core\bin\BPC\Debug\netcoreapp3.1\IMDb.Core.dll
+C:\Matheus\IMDb\IMDb.Core\bin\BPC\Debug\netcoreapp3.1\IMDb.Core.pdb
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.csprojAssemblyReference.cache
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.AssemblyInfoInputs.cache
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.AssemblyInfo.cs
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.csproj.CoreCompileInputs.cache
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.dll
+C:\Matheus\IMDb\IMDb.Core\obj\BPC\Debug\netcoreapp3.1\IMDb.Core.pdb

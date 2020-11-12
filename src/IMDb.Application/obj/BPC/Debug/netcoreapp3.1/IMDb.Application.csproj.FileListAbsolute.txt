@@ -1,0 +1,14 @@
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Application.deps.json
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Application.dll
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Application.pdb
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Core.dll
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Data.dll
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Core.pdb
+C:\Matheus\IMDb\IMDb.Application\bin\BPC\Debug\netcoreapp3.1\IMDb.Data.pdb
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.csprojAssemblyReference.cache
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.AssemblyInfoInputs.cache
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.AssemblyInfo.cs
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.csproj.CoreCompileInputs.cache
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.csproj.CopyComplete
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.dll
+C:\Matheus\IMDb\IMDb.Application\obj\BPC\Debug\netcoreapp3.1\IMDb.Application.pdb
